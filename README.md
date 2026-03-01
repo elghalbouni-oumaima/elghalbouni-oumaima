@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **elghalbouni-oumaima/elghalbouni-oumaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,3 +32,7 @@ Here are some ideas to get you started:
 - Medical Data Management System
 - Weather Application
 - Query Optimization Project
+
+  ## 📫 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/el-ghalbouni-oumaima-a73a26331/)
