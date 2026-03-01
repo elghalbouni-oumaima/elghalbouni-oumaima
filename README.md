@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Oumaima El Ghalbouni 👋
+
+🎓 Data Engineering Student  
+💡 Passionate about Data Systems & Analytics  
+🚀 Currently working on Data Warehouse & Optimization Projects  
+
+## 🛠 Tech Stack
+- Python
+- SQL
+- MySQL
+- Pandas
+- Matplotlib
+- PyQt5
+- PHP
+
+## 📌 Featured Projects
+- Data Warehouse Architecture
+- Medical Data Management System
+- Weather Application
+- Query Optimization Project
