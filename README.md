@@ -32,7 +32,10 @@ Here are some ideas to get you started:
 - Medical Data Management System
 - Weather Application
 - Query Optimization Project
+## 📫 Connect with me
 
-  ## 📫 Connect with me
-
-[LinkedIn](https://www.linkedin.com/in/el-ghalbouni-oumaima-a73a26331/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/el-ghalbouni-oumaima-a73a26331/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Oumaima%20El%20Ghalbouni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
