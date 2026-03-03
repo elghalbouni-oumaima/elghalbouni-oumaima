@@ -34,8 +34,18 @@ Here are some ideas to get you started:
 - Query Optimization Project
 ## 📫 Connect with me
 
+## 📫 Connect with me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/el-ghalbouni-oumaima-a73a26331/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Oumaima%20El%20Ghalbouni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
