@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Oumaima El Ghalbouni 👋
+# Hello, I'm Oumaima El Ghalbouni 👋
 
 🎓 Data Engineering Student  
 💡 Passionate about Data Systems & Analytics  
