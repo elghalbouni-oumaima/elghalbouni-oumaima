@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 - Query Optimization Project
 ## 📫 Connect with me
 
-## 📫 Connect with me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/el-ghalbouni-oumaima-a73a26331/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Oumaima%20El%20Ghalbouni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
