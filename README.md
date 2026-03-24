@@ -1,47 +1,81 @@
-<!--
-**elghalbouni-oumaima/elghalbouni-oumaima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm OUMAIMA EL GHALBOUNI
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Engineering+Student;Python+%7C+SQL+%7C+Big+Data;Passionate+about+Data+Driven+Solutions&center=true&width=500&height=45">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hello, I'm Oumaima El Ghalbouni 👋
+### 💻 Data Engineering Student | Python • SQL • Data Analysis
 
-🎓 Data Engineering Student  
-💡 Passionate about Data Systems & Analytics  
-🚀 Currently working on Data Warehouse & Optimization Projects  
+---
 
-## 🛠 Tech Stack
-- Python
-- SQL
-- MySQL
-- Pandas
-- Matplotlib
-- PyQt5
-- PHP
+## 🚀 About Me
+- 🌱 Currently learning:
+  - Data Engineering (ETL, Data Pipelines)
+  - Apache Spark & Big Data Tools
+  - NLP & Machine Learning  
 
-## 📌 Featured Projects
-- Data Warehouse Architecture
-- Medical Data Management System
-- Weather Application
-- Query Optimization Project
-## 📫 Connect with me
+- 👯 Open to collaborate on:
+  - Data Engineering projects  
+  - Open-source data tools  
+
+- 🤝 Looking for help with:
+  - Scaling data pipelines  
+  - Real-world Big Data architectures  
+
+- 💬 Ask me about:
+  - Python (Pandas, NumPy, Matplotlib)  
+  - SQL & Database Design  
+  - Data Analysis & Visualization  
+
+- ⚡ Fun fact: *I enjoy turning messy datasets into meaningful insights*
+
+---
+
+
+## 🌐 Portfolio & Contact
+- 👨‍💻 Portfolio: [Visit my website](https://elghalbouni-oumaima.github.io/)
+- 📄 CV: [View Resume](https://drive.google.com/file/d/18_r9ssD6idLFMkZjq8jJq5-j7sI-yGOS/view?usp=sharing)
+- 📫 Email: **elghalbouniomaima@gmail.com**
+
+---
+
+## 🤝 Connect with me
+<p align="left">
+<a href="https://github.com/elghalbouni-oumaima" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+<a href="https://linkedin.com/in/el-ghalbouni-oumaima-a73a26331" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,java,php,js,html,css,mysql,postgres,mongodb,docker,git,linux,kafka" />
+</p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/el-ghalbouni-oumaima-a73a26331/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Oumaima%20El%20Ghalbouni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:elghalbouniomaima@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
- 
+<img src="https://skillicons.dev/icons?i=sklearn,spring" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elghalbouni-oumaima&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elghalbouni-oumaima" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elghalbouni-oumaima&layout=compact" />
 </p>
