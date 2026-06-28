@@ -52,64 +52,78 @@ I'm currently looking for **Data Engineer**, **Data Analyst**, or **Data Scienti
 `PHP` • `MySQL` • `HTML` • `CSS` • `JavaScript`
 
 ---
-
 # 🌟 Featured Projects
 
-## 🏗 SQL Data Warehouse
+<table>
+<tr>
+<td width="50%">
+  
+### 🏗 End-to-End Data Warehouse with SQL
 
-**End-to-End Data Warehouse using Medallion Architecture**
+Designed and implemented an end-to-end SQL Data Warehouse following the **Medallion Architecture (Bronze → Silver → Gold)**.
 
-✔ Bronze → Silver → Gold layers
-
-✔ ETL workflows
-
-✔ Star Schema
-
-✔ Business KPIs
+#### Highlights
+- ETL workflows
+- Data cleaning & transformation
+- Star Schema modeling
+- Analytics-ready data marts
+- Business KPI reporting
 
 **Tech Stack**
 
-`SQL Server` `T-SQL` `SSMS` `ETL` `Star Schema`
+`SQL Server` • `T-SQL` • `SSMS` • `ETL` • `Star Schema`
 
----
+🔗 **Repository:** https://github.com/elghalbouni-oumaima/End-to-End-Data-Warehouse-with-SQL
 
-## 💼 JobIntelligent Data Platform
+</td>
 
-AI-powered platform that centralizes and analyzes job offers from multiple sources.
+<td width="50%">
 
-### My Contributions
+### 💼 JobIntelligent Data Platform *(Team Project)*
 
-- Designed Medallion Architecture
-- Built Airflow workflows
-- Developed FastAPI backend
-- PostgreSQL integration
-- MinIO Data Lake
-- NLP processing
-- Power BI dashboards
+AI-powered platform that centralizes job offers from multiple sources and transforms them into analytics-ready datasets.
+
+#### My Contributions
+
+- Designed parts of the Medallion Architecture
+- Developed Airflow workflows
+- Built FastAPI backend components
+- Integrated PostgreSQL
+- Configured MinIO Data Lake
+- Implemented NLP processing
+- Built Power BI dashboards
 
 **Tech Stack**
 
 `Python`
 `Airflow`
 `PostgreSQL`
-`Docker`
 `FastAPI`
+`Docker`
 `Power BI`
 `NLP`
 `MinIO`
 
----
+🔗 **Repository:** *https://github.com/firdawss-Elhaddouchi/JobIntelligent-Data-Platform*
 
-## 🚕 TaaSIM Urban Mobility Platform
+</td>
+</tr>
 
-Real-time Big Data platform for ride demand forecasting.
+<tr>
+<td width="50%">
 
-### Features
+### 🚕 TaaSIM Urban Mobility Platform *(Team Project)*
 
-- GPS ingestion
-- Stream processing
-- Demand prediction
-- Analytics
+A distributed Big Data platform for processing GPS trajectories, ride requests, and demand forecasting in real time.
+
+#### My Contributions
+
+- Apache Flink stream processing
+- Apache Spark ETL
+- Kafka integration
+- API development
+- Data Lake integration
+- Docker deployment
 
 **Tech Stack**
 
@@ -117,39 +131,94 @@ Real-time Big Data platform for ride demand forecasting.
 `Spark`
 `Flink`
 `Cassandra`
+`Python`
 `Docker`
+
+🔗 **Repository:** https://github.com/elghalbouni-oumaima/taasim-urban-mobility-platform
+
+</td>
+
+<td width="50%">
+
+### 🍃 MongoDB Performance Optimization
+
+Performance optimization project using MongoDB, indexing strategies, and sharded clusters for large datasets.
+
+#### Highlights
+
+- MongoDB indexing
+- Aggregation Pipeline
+- Query optimization
+- Sharding
+- Performance comparison
+
+**Tech Stack**
+
+`MongoDB`
 `Python`
+`Dash`
+`Docker`
 
----
+🔗 **Repository:** https://github.com/elghalbouni-oumaima/fhv-tripdata-mongodb-optimization
 
-## 📊 Medical Data Management & Statistics
+</td>
+</tr>
 
-Desktop and Web application for managing medical records and generating disease statistics.
+<tr>
+<td width="50%">
+
+### 🧠 End-to-End Machine Learning
+
+Complete machine learning workflow using the Kaggle House Prices dataset.
+
+#### Highlights
+
+- Exploratory Data Analysis
+- Feature Engineering
+- Data Preprocessing
+- Model Training
+- Hyperparameter Tuning
+- Model Evaluation
 
 **Tech Stack**
 
 `Python`
-`Tkinter`
 `Pandas`
-`Matplotlib`
-`PHP`
-`MySQL`
+`NumPy`
+`Scikit-Learn`
 
----
+🔗 **Repository:** https://github.com/elghalbouni-oumaima/machine-learning-end-to-end-tp
 
-## 🌦 Weather Forecast Application
+</td>
 
-Weather application with autocomplete city search and real-time forecast.
+<td width="50%">
+
+### 📦 Batch Procurement Data Pipeline *(Team Project)*
+
+Batch-oriented data engineering pipeline for procurement analysis.
+
+#### My Contributions
+
+- ETL pipeline development
+- Data ingestion
+- Net demand calculation
+- Supplier order generation
+- PostgreSQL integration
 
 **Tech Stack**
 
 `Python`
-`PyQt5`
-`OpenWeatherMap API`
-`Open-Meteo API`
+`HDFS`
+`PostgreSQL`
+`Trino`
+`Avro`
+`Docker`
 
----
+🔗 **Repository:** *(https://github.com/amina-dourdi/batch-procurement-data-pipeline)*
 
+</td>
+</tr>
+</table>
 # 🛠 Technical Skills
 
 ## 👨‍💻 Programming Languages
