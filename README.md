@@ -12,7 +12,7 @@
 
 # 🚀 About Me
 
-🎓 I'm a **4th-year Data Engineering student** at **ENSA Al Hoceima (Morocco)** with a strong interest in:
+🎓 I'm a **second year Data Engineering student** at **ENSA Al Hoceima (Morocco)** with a strong interest in:
 
 - 📊 Data Analytics
 - 🏗️ Data Engineering
