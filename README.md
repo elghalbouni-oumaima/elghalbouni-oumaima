@@ -331,7 +331,6 @@ https://elghalbouni-oumaima.github.io/
 
 📄 Resume
 
-(Add your latest CV link)
 
 ---
 
