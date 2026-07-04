@@ -104,7 +104,7 @@ AI-powered platform that centralizes job offers from multiple sources and transf
 `NLP`
 `MinIO`
 
-🔗 **Repository:** *https://github.com/firdawss-Elhaddouchi/JobIntelligent-Data-Platform*
+🔗 **Repository:** *https://github.com/elghalbouni-oumaima/JobIntelligent-Data-Platform*
 
 </td>
 </tr>
@@ -214,7 +214,7 @@ Batch-oriented data engineering pipeline for procurement analysis.
 `Avro`
 `Docker`
 
-🔗 **Repository:** *(https://github.com/amina-dourdi/batch-procurement-data-pipeline)*
+🔗 **Repository:** *(https://github.com/elghalbouni-oumaima/batch-procurement-data-pipeline)*
 
 </td>
 </tr>
