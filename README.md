@@ -9,7 +9,7 @@
 </div>
 
 ---
-> ⚠️ **Notice**
+> ⚠️ **Notice-09/07/2026**
 >
 > My LinkedIn profile is temporarily unavailable while LinkedIn completes an identity verification review. According to LinkedIn, access is expected to be restored within the next few days. Thank you for your understanding.
 > 
