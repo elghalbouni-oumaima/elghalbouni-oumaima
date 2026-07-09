@@ -334,6 +334,7 @@ https://elghalbouni-oumaima.github.io/
 
 📄 Resume
 
+https://elghalbouni-oumaima.github.io/resume.pdf
 
 ---
 
