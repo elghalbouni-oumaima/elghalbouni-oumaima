@@ -9,10 +9,7 @@
 </div>
 
 ---
-> ⚠️ **Notice-09/07/2026**
->
-> My LinkedIn profile is temporarily unavailable while LinkedIn completes an identity verification review. According to LinkedIn, access is expected to be restored within the next few days. Thank you for your understanding.
-> 
+
 # 🚀 About Me
 
 🎓 I'm a **second year Data Engineering student** at **ENSA Al Hoceima (Morocco)** with a strong interest in:
