@@ -219,7 +219,7 @@ A team project for collecting job offers from multiple APIs and transforming the
 `Python` • `Airflow` • `MinIO` • `PostgreSQL` • `FastAPI` • `Docker` • `NLP` • `Power BI`
 
 🔗 **Repository:**  
-https://github.com/firdawss-Elhaddouchi/JobIntelligent-Data-Platform
+https://github.com/elghalbouni-oumaima/JobIntelligent-Data-Platform
 
 </td>
 
@@ -269,7 +269,7 @@ A deep learning project for translating sign-language video/keypoint sequences i
 `Python` • `PyTorch` • `Deep Learning` • `Computer Vision`
 
 🔗 **Repository:**  
-https://github.com/amina-dourdi/sign-language-translation
+https://github.com/elghalbouni-oumaima/sign-language-translation
 
 </td>
 
