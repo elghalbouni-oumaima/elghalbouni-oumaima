@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Oumaima El Ghalbouni
 
-### Data Engineering • Data Science • Artificial Intelligence
+### Data Engineering • BI • Artificial Intelligence
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Engineering+Student;Data+Engineering+%26+Big+Data;Machine+Learning+%26+AI;Building+Data+Driven+Applications;Open+to+PFE+Opportunities" />
 
